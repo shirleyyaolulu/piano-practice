@@ -10,7 +10,10 @@
       "teacher_content": "认识钢琴：88个琴键，黑白两色，钢琴是乐器之王。键盘由7个小木屋和医院组成。找到中央C（Do）",
       "homework": "认识钢琴键盘，找到中央C",
       "pieces": [],
-      "techniques": ["认识钢琴键盘结构", "找到中央C"],
+      "techniques": [
+        "认识钢琴键盘结构",
+        "找到中央C"
+      ],
       "notes": "第一节课，启蒙阶段"
     },
     {
@@ -19,7 +22,11 @@
       "teacher_content": "五线谱基础：五线四间，从下到上读。高音谱号从下到上读，低音谱号装在五线谱上从上到下读",
       "homework": "认识五线谱",
       "pieces": [],
-      "techniques": ["认识五线谱（五线四间）", "高音谱号读谱方向", "低音谱号读谱方向"],
+      "techniques": [
+        "认识五线谱（五线四间）",
+        "高音谱号读谱方向",
+        "低音谱号读谱方向"
+      ],
       "notes": ""
     },
     {
@@ -28,7 +35,12 @@
       "teacher_content": "音符时值：全音符（4拍）、二分音符（2拍）、四分音符（1拍）、附点二分音符（3拍）",
       "homework": "认识各种音符的时值",
       "pieces": [],
-      "techniques": ["全音符（4拍）", "二分音符（2拍）", "四分音符（1拍）", "附点二分音符（3拍）"],
+      "techniques": [
+        "全音符（4拍）",
+        "二分音符（2拍）",
+        "四分音符（1拍）",
+        "附点二分音符（3拍）"
+      ],
       "notes": ""
     },
     {
@@ -37,7 +49,9 @@
       "teacher_content": "高音谱号上的Do Re Mi",
       "homework": "复习高音谱号上的Do Re Mi",
       "pieces": [],
-      "techniques": ["高音谱号上的Do Re Mi"],
+      "techniques": [
+        "高音谱号上的Do Re Mi"
+      ],
       "notes": ""
     },
     {
@@ -46,7 +60,10 @@
       "teacher_content": "低音谱号上的Do，断奏（跳音）",
       "homework": "复习低音谱号上的Do，练习断奏",
       "pieces": [],
-      "techniques": ["低音谱号上的Do", "断奏（跳音）"],
+      "techniques": [
+        "低音谱号上的Do",
+        "断奏（跳音）"
+      ],
       "notes": ""
     },
     {
@@ -54,8 +71,15 @@
       "date": "2026-03-15",
       "teacher_content": "复习前五节课所有知识点。天天练中学习走路和跳音。学习火车（节奏练习）。复习高音谱号Do Re Mi，低音谱号Do Si La。复习音符时值。开始学玛丽有只小羊羔",
       "homework": "练习走路和跳音（注意跳音的吸—跳），多练火车，复习高音谱号Do Re Mi和低音谱号Do Si La，练习玛丽有只小羊羔",
-      "pieces": ["火车", "玛丽有只小羊羔"],
-      "techniques": ["走路（连奏）", "跳音（吸—跳）", "低音谱号Do Si La"],
+      "pieces": [
+        "火车",
+        "玛丽有只小羊羔"
+      ],
+      "techniques": [
+        "走路（连奏）",
+        "跳音（吸—跳）",
+        "低音谱号Do Si La"
+      ],
       "notes": "注意跳音的吸—跳动作，火车需要多练"
     },
     {
@@ -63,8 +87,16 @@
       "date": "2026-03-21",
       "teacher_content": "复习弧线跳音（吸 跳），复习低音谱号上的音（Do Si La），学习海军修建兵，练习小矮人舞曲和小矮人进行曲，天天练学习右手拍球",
       "homework": "复习弧线跳音（吸 跳），练习海军修建兵（先唱谱再弹奏），练习小矮人舞曲和小矮人进行曲，练习天天练右手拍球",
-      "pieces": ["海军修建兵", "小矮人舞曲", "小矮人进行曲", "天天练-右手拍球"],
-      "techniques": ["弧线跳音（吸 跳）", "唱谱后弹奏"],
+      "pieces": [
+        "海军修建兵",
+        "小矮人舞曲",
+        "小矮人进行曲",
+        "天天练-右手拍球"
+      ],
+      "techniques": [
+        "弧线跳音（吸 跳）",
+        "唱谱后弹奏"
+      ],
       "notes": "海军修建兵要先唱谱再弹奏"
     },
     {
@@ -72,8 +104,15 @@
       "date": "2026-03-29",
       "teacher_content": "学习越过山坡，天天练学习左手拍球。学习拍号：二四拍（以四分音符为一拍，每小节两拍）、三四拍（以四分音符为一拍，每小节三拍）、四四拍（以四分音符为一拍，每小节四拍）。强弱轻响表示歌曲方式。认识小节线和终止线",
       "homework": "弹奏越过山坡，练习天天练左手拍球",
-      "pieces": ["越过山坡", "天天练-左手拍球"],
-      "techniques": ["拍号（2/4, 3/4, 4/4）", "强弱规律", "认识小节线和终止线"],
+      "pieces": [
+        "越过山坡",
+        "天天练-左手拍球"
+      ],
+      "techniques": [
+        "拍号（2/4, 3/4, 4/4）",
+        "强弱规律",
+        "认识小节线和终止线"
+      ],
       "notes": "注意小节线和终止线"
     }
   ],
@@ -86,6 +125,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 5,
       "review_interval_days": 14,
+      "last_feedback": "",
       "notes": "第6课全面复习过"
     },
     {
@@ -96,6 +136,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 5,
       "review_interval_days": 14,
+      "last_feedback": "",
       "notes": ""
     },
     {
@@ -106,6 +147,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": ""
     },
     {
@@ -116,6 +158,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": ""
     },
     {
@@ -126,6 +169,7 @@
       "last_reviewed": "2026-03-21",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": "第7课又复习了低音谱号"
     },
     {
@@ -136,6 +180,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": ""
     },
     {
@@ -146,6 +191,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": ""
     },
     {
@@ -156,6 +202,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": ""
     },
     {
@@ -166,6 +213,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": ""
     },
     {
@@ -176,6 +224,7 @@
       "last_reviewed": "2026-03-15",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": "第6课复习过"
     },
     {
@@ -186,6 +235,7 @@
       "last_reviewed": "2026-03-21",
       "proficiency": 4,
       "review_interval_days": 7,
+      "last_feedback": "",
       "notes": "第7课又复习了"
     },
     {
@@ -196,6 +246,7 @@
       "last_reviewed": "2026-03-21",
       "proficiency": 3,
       "review_interval_days": 5,
+      "last_feedback": "",
       "notes": "第6课学走路和跳音，第7课复习弧线跳音"
     },
     {
@@ -203,20 +254,22 @@
       "name": "走路（连奏）",
       "category": "演奏技巧",
       "learned_date": "2026-03-15",
-      "last_reviewed": "2026-03-15",
-      "proficiency": 2,
-      "review_interval_days": 2,
-      "notes": "天天练中学习的"
+      "last_reviewed": "2026-03-30",
+      "proficiency": 3,
+      "review_interval_days": 5,
+      "last_feedback": "不错",
+      "notes": "3/30热身中练了走路vs跳音切换，表现不错"
     },
     {
       "id": "skill_014",
       "name": "跳音（吸—跳）",
       "category": "演奏技巧",
       "learned_date": "2026-03-15",
-      "last_reviewed": "2026-03-21",
+      "last_reviewed": "2026-03-30",
       "proficiency": 3,
       "review_interval_days": 5,
-      "notes": "第7课又复习了弧线跳音"
+      "last_feedback": "不错",
+      "notes": "3/30热身中练了走路vs跳音切换"
     },
     {
       "id": "skill_015",
@@ -226,6 +279,7 @@
       "last_reviewed": "2026-03-21",
       "proficiency": 3,
       "review_interval_days": 5,
+      "last_feedback": "",
       "notes": "第7课又复习了"
     },
     {
@@ -236,6 +290,7 @@
       "last_reviewed": "2026-03-21",
       "proficiency": 2,
       "review_interval_days": 2,
+      "last_feedback": "",
       "notes": ""
     },
     {
@@ -243,10 +298,11 @@
       "name": "唱谱后弹奏（先唱再弹）",
       "category": "练习方法",
       "learned_date": "2026-03-21",
-      "last_reviewed": "2026-03-21",
-      "proficiency": 2,
-      "review_interval_days": 2,
-      "notes": ""
+      "last_reviewed": "2026-03-30",
+      "proficiency": 3,
+      "review_interval_days": 5,
+      "last_feedback": "有进步",
+      "notes": "3/30越过山坡和左手拍球都用了先唱谱再弹"
     },
     {
       "id": "skill_018",
@@ -256,7 +312,8 @@
       "last_reviewed": "2026-03-29",
       "proficiency": 1,
       "review_interval_days": 1,
-      "notes": "刚学，需要每天复习"
+      "last_feedback": "",
+      "notes": "刚学，3/30跳过（家长反馈老师还没详细讲）"
     },
     {
       "id": "skill_019",
@@ -266,17 +323,19 @@
       "last_reviewed": "2026-03-29",
       "proficiency": 1,
       "review_interval_days": 1,
-      "notes": "刚学"
+      "last_feedback": "",
+      "notes": "刚学，3/30跳过（家长反馈老师还没详细讲）"
     },
     {
       "id": "skill_020",
       "name": "认识小节线和终止线",
       "category": "乐理",
       "learned_date": "2026-03-29",
-      "last_reviewed": "2026-03-29",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "notes": "刚学"
+      "last_reviewed": "2026-03-30",
+      "proficiency": 2,
+      "review_interval_days": 2,
+      "last_feedback": "有进步",
+      "notes": "3/30在越过山坡中找了小节线和终止线"
     }
   ],
   "pieces_log": [
@@ -285,80 +344,104 @@
       "name": "火车",
       "status": "learning",
       "started_date": "2026-03-15",
-      "sections_learned": ["全曲"],
+      "sections_learned": [
+        "全曲"
+      ],
       "difficulty_spots": [],
       "last_practiced": "2026-03-15",
-      "proficiency": 2
+      "proficiency": 2,
+      "last_feedback": ""
     },
     {
       "id": "piece_002",
       "name": "玛丽有只小羊羔",
       "status": "learning",
       "started_date": "2026-03-15",
-      "sections_learned": ["全曲"],
+      "sections_learned": [
+        "全曲"
+      ],
       "difficulty_spots": [],
       "last_practiced": "2026-03-15",
-      "proficiency": 2
+      "proficiency": 2,
+      "last_feedback": ""
     },
     {
       "id": "piece_003",
       "name": "海军修建兵",
       "status": "learning",
       "started_date": "2026-03-21",
-      "sections_learned": ["全曲"],
+      "sections_learned": [
+        "全曲"
+      ],
       "difficulty_spots": [],
       "last_practiced": "2026-03-21",
-      "proficiency": 2
+      "proficiency": 2,
+      "last_feedback": ""
     },
     {
       "id": "piece_004",
       "name": "小矮人舞曲",
       "status": "learning",
       "started_date": "2026-03-21",
-      "sections_learned": ["全曲"],
+      "sections_learned": [
+        "全曲"
+      ],
       "difficulty_spots": [],
       "last_practiced": "2026-03-21",
-      "proficiency": 2
+      "proficiency": 2,
+      "last_feedback": ""
     },
     {
       "id": "piece_005",
       "name": "小矮人进行曲",
       "status": "learning",
       "started_date": "2026-03-21",
-      "sections_learned": ["全曲"],
+      "sections_learned": [
+        "全曲"
+      ],
       "difficulty_spots": [],
       "last_practiced": "2026-03-21",
-      "proficiency": 2
+      "proficiency": 2,
+      "last_feedback": ""
     },
     {
       "id": "piece_006",
       "name": "越过山坡",
       "status": "learning",
       "started_date": "2026-03-29",
-      "sections_learned": ["全曲"],
+      "sections_learned": [
+        "全曲"
+      ],
       "difficulty_spots": [],
-      "last_practiced": "2026-03-29",
-      "proficiency": 1
+      "last_practiced": "2026-03-30",
+      "proficiency": 2,
+      "last_feedback": "有进步"
     },
     {
       "id": "piece_007",
       "name": "天天练-右手拍球",
       "status": "learning",
       "started_date": "2026-03-21",
-      "sections_learned": ["全曲"],
+      "sections_learned": [
+        "全曲"
+      ],
       "difficulty_spots": [],
       "last_practiced": "2026-03-21",
-      "proficiency": 2
+      "proficiency": 2,
+      "last_feedback": ""
     },
     {
       "id": "piece_008",
       "name": "天天练-左手拍球",
       "status": "learning",
       "started_date": "2026-03-29",
-      "sections_learned": ["全曲"],
+      "sections_learned": [
+        "全曲"
+      ],
       "difficulty_spots": [],
-      "last_practiced": "2026-03-29",
-      "proficiency": 1
+      "last_practiced": "2026-03-30",
+      "proficiency": 2,
+      "last_feedback": "有进步"
     }
   ]
 }
