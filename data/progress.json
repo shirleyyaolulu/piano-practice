@@ -2,7 +2,7 @@
   "child_name": "跳跳",
   "start_date": "2026-02-08",
   "lesson_day": "Sunday",
-  "current_stage": "single_finger",
+  "current_stage": "basic_five",
   "lessons": [
     {
       "week": 1,
@@ -114,6 +114,21 @@
         "认识小节线和终止线"
       ],
       "notes": "注意小节线和终止线"
+    },
+    {
+      "week": 9,
+      "date": "2026-04-12",
+      "teacher_content": "深入学习拍号：二四拍（强弱）、三四拍（强弱弱）、四四拍（强弱次强弱），用强弱轻响表示歌曲。学习雷格泰姆舞中的切分节奏（中间多两端少，两端音时值总和等于中间音，常见于爵士乐）。重点复习天天练曲子（弧线跳音）——左手拍球和右手拍球。开始用左右手各三根手指（1-2-3指）弹奏雷格泰姆舞前两行。从单指弹奏过渡到三指弹奏",
+      "homework": "重点复习天天练左手拍球和右手拍球（弧线跳音），练习雷格泰姆舞前两行（左右手1-2-3指），多练切分节奏",
+      "pieces": [
+        "雷格泰姆舞"
+      ],
+      "techniques": [
+        "切分节奏（中间多两端少）",
+        "左右手1-2-3指弹奏（三指过渡）",
+        "拍号深入（强弱规律详解）"
+      ],
+      "notes": "重大阶段转变：从单指过渡到三指！手型需要注意——手塌得厉害，手型不对。跳跳很喜欢玛丽有只小羊羔。4/5清明假期没上课"
     }
   ],
   "skill_inventory": [
@@ -276,22 +291,22 @@
       "name": "低音谱号上的Do Si La",
       "category": "认谱",
       "learned_date": "2026-03-15",
-      "last_reviewed": "2026-03-21",
-      "proficiency": 3,
-      "review_interval_days": 5,
-      "last_feedback": "",
-      "notes": "第7课又复习了"
+      "last_reviewed": "2026-04-01",
+      "proficiency": 4,
+      "review_interval_days": 7,
+      "last_feedback": "4/1热身找音Do-Si-La完成",
+      "notes": "第7课又复习了，4/1热身练了"
     },
     {
       "id": "skill_016",
       "name": "弧线跳音（吸 跳）",
       "category": "演奏技巧",
       "learned_date": "2026-03-21",
-      "last_reviewed": "2026-03-21",
-      "proficiency": 2,
-      "review_interval_days": 2,
-      "last_feedback": "",
-      "notes": ""
+      "last_reviewed": "2026-04-12",
+      "proficiency": 3,
+      "review_interval_days": 5,
+      "last_feedback": "课上复习过",
+      "notes": "第9课天天练中复习了弧线跳音（左手拍球、右手拍球）"
     },
     {
       "id": "skill_017",
@@ -309,33 +324,66 @@
       "name": "拍号（2/4拍、3/4拍、4/4拍）",
       "category": "乐理",
       "learned_date": "2026-03-29",
-      "last_reviewed": "2026-03-29",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "last_feedback": "",
-      "notes": "刚学，3/30跳过（家长反馈老师还没详细讲）"
+      "last_reviewed": "2026-04-12",
+      "proficiency": 2,
+      "review_interval_days": 2,
+      "last_feedback": "课上详细学了",
+      "notes": "第8课初识，第9课详细学习。二四拍（强弱）、三四拍（强弱弱）、四四拍（强弱次强弱）"
     },
     {
       "id": "skill_019",
       "name": "强弱规律",
       "category": "乐理",
       "learned_date": "2026-03-29",
-      "last_reviewed": "2026-03-29",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "last_feedback": "",
-      "notes": "刚学，3/30跳过（家长反馈老师还没详细讲）"
+      "last_reviewed": "2026-04-12",
+      "proficiency": 2,
+      "review_interval_days": 2,
+      "last_feedback": "课上详细学了",
+      "notes": "第9课详细学习。二四拍(强弱)、三四拍(强弱弱)、四四拍(强弱次强弱)，用强弱轻响表示歌曲"
     },
     {
       "id": "skill_020",
       "name": "认识小节线和终止线",
       "category": "乐理",
       "learned_date": "2026-03-29",
-      "last_reviewed": "2026-03-30",
-      "proficiency": 2,
-      "review_interval_days": 2,
-      "last_feedback": "有进步",
-      "notes": "3/30在越过山坡中找了小节线和终止线"
+      "last_reviewed": "2026-04-02",
+      "proficiency": 3,
+      "review_interval_days": 5,
+      "last_feedback": "多次复习，能找到",
+      "notes": "3/30、4/1、4/2多次练习找小节线和终止线，基本掌握辨认"
+    },
+    {
+      "id": "skill_021",
+      "name": "切分节奏（中间多两端少）",
+      "category": "节奏",
+      "learned_date": "2026-04-12",
+      "last_reviewed": "2026-04-12",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "在雷格泰姆舞中学习，两端音时值总和等于中间音，常见于爵士乐"
+    },
+    {
+      "id": "skill_022",
+      "name": "左右手1-2-3指弹奏",
+      "category": "指法",
+      "learned_date": "2026-04-12",
+      "last_reviewed": "2026-04-12",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "从单指过渡到三指！雷格泰姆舞前两行用左右手各三根手指弹奏"
+    },
+    {
+      "id": "skill_023",
+      "name": "手型（抓苹果的手）",
+      "category": "演奏技巧",
+      "learned_date": "2026-04-12",
+      "last_reviewed": "2026-04-12",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "手塌得厉害",
+      "notes": "手型不对，手塌得厉害，需要重点练习。手指自然弯曲像抓苹果，手腕不要塌"
     }
   ],
   "pieces_log": [
@@ -361,9 +409,9 @@
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-03-15",
-      "proficiency": 2,
-      "last_feedback": ""
+      "last_practiced": "2026-04-02",
+      "proficiency": 3,
+      "last_feedback": "跳跳最喜欢的曲子，4/1收尾和4/2点唱机都选了"
     },
     {
       "id": "piece_003",
@@ -374,9 +422,9 @@
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-03-21",
-      "proficiency": 2,
-      "last_feedback": ""
+      "last_practiced": "2026-04-02",
+      "proficiency": 3,
+      "last_feedback": "4/1回忆挑战弹出来了，4/2点唱机也抽到弹了"
     },
     {
       "id": "piece_004",
@@ -412,10 +460,12 @@
       "sections_learned": [
         "全曲"
       ],
-      "difficulty_spots": [],
-      "last_practiced": "2026-03-30",
-      "proficiency": 2,
-      "last_feedback": "有进步"
+      "difficulty_spots": [
+        "小节线处停顿还没掌握"
+      ],
+      "last_practiced": "2026-04-04",
+      "proficiency": 3,
+      "last_feedback": "基本能弹，小节线停顿还没掌握"
     },
     {
       "id": "piece_007",
@@ -426,9 +476,9 @@
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-03-21",
-      "proficiency": 2,
-      "last_feedback": ""
+      "last_practiced": "2026-04-12",
+      "proficiency": 3,
+      "last_feedback": "课上复习过弧线跳音"
     },
     {
       "id": "piece_008",
@@ -439,9 +489,25 @@
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-03-30",
-      "proficiency": 2,
-      "last_feedback": "有进步"
+      "last_practiced": "2026-04-12",
+      "proficiency": 3,
+      "last_feedback": "课上复习过弧线跳音"
+    },
+    {
+      "id": "piece_009",
+      "name": "雷格泰姆舞",
+      "status": "learning",
+      "started_date": "2026-04-12",
+      "sections_learned": [
+        "前两行"
+      ],
+      "difficulty_spots": [
+        "切分节奏",
+        "三指手型（手塌）"
+      ],
+      "last_practiced": "2026-04-12",
+      "proficiency": 1,
+      "last_feedback": ""
     }
   ]
 }
