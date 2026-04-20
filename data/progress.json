@@ -129,6 +129,25 @@
         "拍号深入（强弱规律详解）"
       ],
       "notes": "重大阶段转变：从单指过渡到三指！手型需要注意——手塌得厉害，手型不对。跳跳很喜欢玛丽有只小羊羔。4/5清明假期没上课"
+    },
+    {
+      "week": 10,
+      "date": "2026-04-19",
+      "teacher_content": "复习拍号：二四拍（以四分音符为一拍，每小节两拍，强弱）、三四拍（以四分音符为一拍，每小节三拍，强弱弱）、四四拍（以四分音符为一拍，每小节四拍，强弱次强弱），并继续用强弱轻响理解歌曲方式。复习《雷格泰姆舞》的切分节奏（中间多两端少，两端音时值总和等于中间音，常见于爵士乐）。学习《雷格泰姆舞》剩余部分。学习低音谱号上的so（记忆方法：地下一楼扫一扫），本周曲子需要用强弱弱的旋律表现，注意多练《排钟》。学习天天练《双臂上举与下垂》。",
+      "homework": "练习《雷格泰姆舞》剩余部分，继续巩固切分节奏；复习拍号和三四拍的强弱弱规律；练习低音谱号上的so，多练《排钟》；练习天天练《双臂上举与下垂》。",
+      "pieces": [
+        "雷格泰姆舞",
+        "排钟",
+        "天天练-双臂上举与下垂"
+      ],
+      "techniques": [
+        "拍号复习（2/4, 3/4, 4/4）",
+        "切分节奏复习",
+        "低音谱号上的so",
+        "三四拍强弱弱",
+        "双臂上举与下垂"
+      ],
+      "notes": "本周在旧知识复习基础上继续推进《雷格泰姆舞》，新增低音谱号so，并强调《排钟》要多练。"
     }
   ],
   "skill_inventory": [
@@ -181,11 +200,11 @@
       "name": "低音谱号读谱（从上到下）",
       "category": "认谱",
       "learned_date": "2026-02-15",
-      "last_reviewed": "2026-03-21",
+      "last_reviewed": "2026-04-19",
       "proficiency": 4,
       "review_interval_days": 7,
       "last_feedback": "",
-      "notes": "第7课又复习了低音谱号"
+      "notes": "第7课又复习了低音谱号；第10课继续复习低音谱号并学习so"
     },
     {
       "id": "skill_006",
@@ -324,11 +343,11 @@
       "name": "拍号（2/4拍、3/4拍、4/4拍）",
       "category": "乐理",
       "learned_date": "2026-03-29",
-      "last_reviewed": "2026-04-12",
-      "proficiency": 2,
-      "review_interval_days": 2,
+      "last_reviewed": "2026-04-19",
+      "proficiency": 4,
+      "review_interval_days": 7,
       "last_feedback": "课上详细学了",
-      "notes": "第8课初识，第9课详细学习。二四拍（强弱）、三四拍（强弱弱）、四四拍（强弱次强弱）"
+      "notes": "第8课初识，第9课详细学习。二四拍（强弱）、三四拍（强弱弱）、四四拍（强弱次强弱）；第10课复习拍号强弱规律"
     },
     {
       "id": "skill_019",
@@ -357,11 +376,11 @@
       "name": "切分节奏（中间多两端少）",
       "category": "节奏",
       "learned_date": "2026-04-12",
-      "last_reviewed": "2026-04-12",
-      "proficiency": 1,
-      "review_interval_days": 1,
+      "last_reviewed": "2026-04-19",
+      "proficiency": 3,
+      "review_interval_days": 5,
       "last_feedback": "",
-      "notes": "在雷格泰姆舞中学习，两端音时值总和等于中间音，常见于爵士乐"
+      "notes": "在雷格泰姆舞中学习，两端音时值总和等于中间音，常见于爵士乐；第10课继续复习切分节奏"
     },
     {
       "id": "skill_022",
@@ -384,6 +403,39 @@
       "review_interval_days": 1,
       "last_feedback": "手塌得厉害",
       "notes": "手型不对，手塌得厉害，需要重点练习。手指自然弯曲像抓苹果，手腕不要塌"
+    },
+    {
+      "id": "skill_024",
+      "name": "低音谱号上的so",
+      "category": "认谱",
+      "learned_date": "2026-04-19",
+      "last_reviewed": "2026-04-19",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "记忆方法：地下一楼扫一扫"
+    },
+    {
+      "id": "skill_025",
+      "name": "三四拍强弱弱规律",
+      "category": "乐理",
+      "learned_date": "2026-04-19",
+      "last_reviewed": "2026-04-19",
+      "proficiency": 2,
+      "review_interval_days": 2,
+      "last_feedback": "",
+      "notes": "结合《排钟》练习强弱弱旋律"
+    },
+    {
+      "id": "skill_026",
+      "name": "双臂上举与下垂",
+      "category": "基础动作",
+      "learned_date": "2026-04-19",
+      "last_reviewed": "2026-04-19",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "天天练新内容"
     }
   ],
   "pieces_log": [
@@ -499,15 +551,46 @@
       "status": "learning",
       "started_date": "2026-04-12",
       "sections_learned": [
-        "前两行"
+        "前两行",
+        "剩余部分"
       ],
       "difficulty_spots": [
         "切分节奏",
-        "三指手型（手塌）"
+        "三指手型（手塌）",
+        "手型稳定",
+        "三四拍强弱弱表现"
       ],
-      "last_practiced": "2026-04-12",
+      "last_practiced": "2026-04-19",
+      "proficiency": 2,
+      "last_feedback": "已学习剩余部分，继续巩固切分节奏和三指弹奏"
+    },
+    {
+      "id": "piece_007",
+      "name": "排钟",
+      "status": "learning",
+      "started_date": "2026-04-19",
+      "sections_learned": [
+        "整首初学"
+      ],
+      "difficulty_spots": [
+        "三四拍强弱弱旋律表现"
+      ],
+      "last_practiced": "2026-04-19",
       "proficiency": 1,
-      "last_feedback": ""
+      "last_feedback": "老师提醒要多练"
+    },
+    {
+      "id": "piece_008",
+      "name": "天天练-双臂上举与下垂",
+      "status": "learning",
+      "started_date": "2026-04-19",
+      "sections_learned": [
+        "已学习"
+      ],
+      "difficulty_spots": [],
+      "last_practiced": "2026-04-19",
+      "proficiency": 1,
+      "last_feedback": "本周新学天天练内容"
     }
   ]
 }
