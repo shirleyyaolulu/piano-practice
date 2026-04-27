@@ -148,6 +148,22 @@
         "双臂上举与下垂"
       ],
       "notes": "本周在旧知识复习基础上继续推进《雷格泰姆舞》，新增低音谱号so，并强调《排钟》要多练。"
+    },
+    {
+      "week": 11,
+      "date": "2026-04-27",
+      "teacher_content": "学习休止符：全休止符（像吸顶灯）、附点二分休止符、二分休止符（像巧克力蛋糕）、四分休止符（像横过来的M）。学习音程概念：旋律音程（先后弹奏）和和声音程（同时弹奏）。学习《天天练练》上的《轻轻跳》和《深呼吸》。",
+      "homework": "预习《滑稽面孔》",
+      "pieces": [
+        "天天练练-轻轻跳",
+        "天天练练-深呼吸"
+      ],
+      "techniques": [
+        "休止符（全休止符、附点二分休止符、二分休止符、四分休止符）",
+        "旋律音程",
+        "和声音程"
+      ],
+      "notes": "休止符记忆口诀：四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音程分旋律音程（前后弹）和和声音程（同时弹）。"
     }
   ],
   "skill_inventory": [
@@ -211,44 +227,44 @@
       "name": "全音符（4拍）",
       "category": "乐理",
       "learned_date": "2026-02-22",
-      "last_reviewed": "2026-03-15",
+      "last_reviewed": "2026-04-27",
       "proficiency": 4,
       "review_interval_days": 7,
       "last_feedback": "",
-      "notes": ""
+      "notes": "第11课学休止符时关联复习了音符时值"
     },
     {
       "id": "skill_007",
       "name": "二分音符（2拍）",
       "category": "乐理",
       "learned_date": "2026-02-22",
-      "last_reviewed": "2026-03-15",
+      "last_reviewed": "2026-04-27",
       "proficiency": 4,
       "review_interval_days": 7,
       "last_feedback": "",
-      "notes": ""
+      "notes": "第11课学休止符时关联复习了音符时值"
     },
     {
       "id": "skill_008",
       "name": "四分音符（1拍）",
       "category": "乐理",
       "learned_date": "2026-02-22",
-      "last_reviewed": "2026-03-15",
+      "last_reviewed": "2026-04-27",
       "proficiency": 4,
       "review_interval_days": 7,
       "last_feedback": "",
-      "notes": ""
+      "notes": "第11课学休止符时关联复习了音符时值"
     },
     {
       "id": "skill_009",
       "name": "附点二分音符（3拍）",
       "category": "乐理",
       "learned_date": "2026-02-22",
-      "last_reviewed": "2026-03-15",
+      "last_reviewed": "2026-04-27",
       "proficiency": 4,
       "review_interval_days": 7,
       "last_feedback": "",
-      "notes": ""
+      "notes": "第11课学休止符时关联复习了音符时值"
     },
     {
       "id": "skill_010",
@@ -387,22 +403,22 @@
       "name": "左右手1-2-3指弹奏",
       "category": "指法",
       "learned_date": "2026-04-12",
-      "last_reviewed": "2026-04-12",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "last_feedback": "",
-      "notes": "从单指过渡到三指！雷格泰姆舞前两行用左右手各三根手指弹奏"
+      "last_reviewed": "2026-04-27",
+      "proficiency": 2,
+      "review_interval_days": 2,
+      "last_feedback": "持续练习中",
+      "notes": "从单指过渡到三指！雷格泰姆舞前两行用左右手各三根手指弹奏；第11课天天练练《轻轻跳》《深呼吸》继续练习"
     },
     {
       "id": "skill_023",
       "name": "手型（抓苹果的手）",
       "category": "演奏技巧",
       "learned_date": "2026-04-12",
-      "last_reviewed": "2026-04-12",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "last_feedback": "手塌得厉害",
-      "notes": "手型不对，手塌得厉害，需要重点练习。手指自然弯曲像抓苹果，手腕不要塌"
+      "last_reviewed": "2026-04-27",
+      "proficiency": 2,
+      "review_interval_days": 2,
+      "last_feedback": "持续关注中",
+      "notes": "手型不对，手塌得厉害，需要重点练习。手指自然弯曲像抓苹果，手腕不要塌；第11课继续练习"
     },
     {
       "id": "skill_024",
@@ -436,6 +452,39 @@
       "review_interval_days": 1,
       "last_feedback": "",
       "notes": "天天练新内容"
+    },
+    {
+      "id": "skill_027",
+      "name": "休止符（全休止符、附点二分休止符、二分休止符、四分休止符）",
+      "category": "乐理",
+      "learned_date": "2026-04-27",
+      "last_reviewed": "2026-04-27",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音符的请假条——有音符在的地方不弹就是休止"
+    },
+    {
+      "id": "skill_028",
+      "name": "旋律音程（先后弹奏两个音）",
+      "category": "乐理",
+      "learned_date": "2026-04-27",
+      "last_reviewed": "2026-04-27",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "两个音先后弹出来就是旋律音程"
+    },
+    {
+      "id": "skill_029",
+      "name": "和声音程（同时弹奏两个音）",
+      "category": "乐理",
+      "learned_date": "2026-04-27",
+      "last_reviewed": "2026-04-27",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "两个音同时弹出来就是和声音程"
     }
   ],
   "pieces_log": [
@@ -565,7 +614,7 @@
       "last_feedback": "已学习剩余部分，继续巩固切分节奏和三指弹奏"
     },
     {
-      "id": "piece_007",
+      "id": "piece_010",
       "name": "排钟",
       "status": "learning",
       "started_date": "2026-04-19",
@@ -580,7 +629,7 @@
       "last_feedback": "老师提醒要多练"
     },
     {
-      "id": "piece_008",
+      "id": "piece_011",
       "name": "天天练-双臂上举与下垂",
       "status": "learning",
       "started_date": "2026-04-19",
@@ -591,6 +640,43 @@
       "last_practiced": "2026-04-19",
       "proficiency": 1,
       "last_feedback": "本周新学天天练内容"
+    },
+    {
+      "id": "piece_012",
+      "name": "天天练练-轻轻跳",
+      "status": "learning",
+      "started_date": "2026-04-27",
+      "sections_learned": [
+        "课上初学"
+      ],
+      "difficulty_spots": [],
+      "last_practiced": "2026-04-27",
+      "proficiency": 1,
+      "last_feedback": ""
+    },
+    {
+      "id": "piece_013",
+      "name": "天天练练-深呼吸",
+      "status": "learning",
+      "started_date": "2026-04-27",
+      "sections_learned": [
+        "课上初学"
+      ],
+      "difficulty_spots": [],
+      "last_practiced": "2026-04-27",
+      "proficiency": 1,
+      "last_feedback": ""
+    },
+    {
+      "id": "piece_014",
+      "name": "滑稽面孔",
+      "status": "preview",
+      "started_date": "2026-04-27",
+      "sections_learned": [],
+      "difficulty_spots": [],
+      "last_practiced": "2026-04-27",
+      "proficiency": 0,
+      "last_feedback": "预习作业，还没开始学"
     }
   ]
 }
