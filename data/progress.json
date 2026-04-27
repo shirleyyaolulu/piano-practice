@@ -133,11 +133,12 @@
     {
       "week": 10,
       "date": "2026-04-19",
-      "teacher_content": "复习拍号：二四拍（以四分音符为一拍，每小节两拍，强弱）、三四拍（以四分音符为一拍，每小节三拍，强弱弱）、四四拍（以四分音符为一拍，每小节四拍，强弱次强弱），并继续用强弱轻响理解歌曲方式。复习《雷格泰姆舞》的切分节奏（中间多两端少，两端音时值总和等于中间音，常见于爵士乐）。学习《雷格泰姆舞》剩余部分。学习低音谱号上的so（记忆方法：地下一楼扫一扫），本周曲子需要用强弱弱的旋律表现，注意多练《排钟》。学习天天练《双臂上举与下垂》。",
+      "teacher_content": "复习拍号：二四拍（以四分音符为一拍，每小节两拍，强弱）、三四拍（以四分音符为一拍，每小节三拍，强弱弱）、四四拍（以四分音符为一拍，每小节四拍，强弱次强弱），并继续用强弱轻响理解歌曲方式。复习《雷格泰姆舞》的切分节奏（中间多两端少，两端音时值总和等于中间音，常见于爵士乐）。学习《雷格泰姆舞》剩余部分。学习低音谱号上的so（记忆方法：地下一楼扫一扫），本周曲子需要用强弱弱的旋律表现，注意多练《排钟》。学习天天练《双臂上举与下垂》。学习《翻滚》。",
       "homework": "练习《雷格泰姆舞》剩余部分，继续巩固切分节奏；复习拍号和三四拍的强弱弱规律；练习低音谱号上的so，多练《排钟》；练习天天练《双臂上举与下垂》。",
       "pieces": [
         "雷格泰姆舞",
         "排钟",
+        "翻滚",
         "天天练-双臂上举与下垂"
       ],
       "techniques": [
@@ -163,7 +164,7 @@
         "旋律音程",
         "和声音程"
       ],
-      "notes": "休止符记忆口诀：四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音程分旋律音程（前后弹）和和声音程（同时弹）。"
+      "notes": "休止符记忆口诀：四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音程分旋律音程（前后弹）和和声音程（同时弹）。老师另一种辨别方法：小节里没有其他休止符→全休止符，有其他休止符→二分休止符；四分和附点二分靠形状区分。手型问题持续：手容易塌，弹低音谱号so时食指中指容易翘起来。"
     }
   ],
   "skill_inventory": [
@@ -370,11 +371,11 @@
       "name": "强弱规律",
       "category": "乐理",
       "learned_date": "2026-03-29",
-      "last_reviewed": "2026-04-12",
-      "proficiency": 2,
-      "review_interval_days": 2,
-      "last_feedback": "课上详细学了",
-      "notes": "第9课详细学习。二四拍(强弱)、三四拍(强弱弱)、四四拍(强弱次强弱)，用强弱轻响表示歌曲"
+      "last_reviewed": "2026-04-25",
+      "proficiency": 3,
+      "review_interval_days": 5,
+      "last_feedback": "第10周练习中三四拍拍手能做到",
+      "notes": "第9课详细学习。二四拍(强弱)、三四拍(强弱弱)、四四拍(强弱次强弱)，用强弱轻响表示歌曲；第10周家长反馈拍手能做到"
     },
     {
       "id": "skill_020",
@@ -392,11 +393,11 @@
       "name": "切分节奏（中间多两端少）",
       "category": "节奏",
       "learned_date": "2026-04-12",
-      "last_reviewed": "2026-04-19",
-      "proficiency": 3,
-      "review_interval_days": 5,
-      "last_feedback": "",
-      "notes": "在雷格泰姆舞中学习，两端音时值总和等于中间音，常见于爵士乐；第10课继续复习切分节奏"
+      "last_reviewed": "2026-04-25",
+      "proficiency": 4,
+      "review_interval_days": 7,
+      "last_feedback": "拍手能拍，琴上也能慢慢弹出来",
+      "notes": "在雷格泰姆舞中学习，两端音时值总和等于中间音，常见于爵士乐；第10课继续复习切分节奏；第10周家长反馈拍手和琴上都能弹"
     },
     {
       "id": "skill_022",
@@ -417,41 +418,41 @@
       "last_reviewed": "2026-04-27",
       "proficiency": 2,
       "review_interval_days": 2,
-      "last_feedback": "持续关注中",
-      "notes": "手型不对，手塌得厉害，需要重点练习。手指自然弯曲像抓苹果，手腕不要塌；第11课继续练习"
+      "last_feedback": "提醒后能保持，但弹低音so时食指中指翘起",
+      "notes": "手型不对，手塌得厉害，需要重点练习。手指自然弯曲像抓苹果，手腕不要塌；第10周家长反馈提醒后能保持；第11课继续练习。新问题：弹低音谱号so时食指中指容易翘起来"
     },
     {
       "id": "skill_024",
       "name": "低音谱号上的so",
       "category": "认谱",
       "learned_date": "2026-04-19",
-      "last_reviewed": "2026-04-19",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "last_feedback": "",
-      "notes": "记忆方法：地下一楼扫一扫"
+      "last_reviewed": "2026-04-25",
+      "proficiency": 3,
+      "review_interval_days": 5,
+      "last_feedback": "基本能自己找到",
+      "notes": "记忆方法：地下一楼扫一扫；第10周家长反馈基本能自己找到"
     },
     {
       "id": "skill_025",
       "name": "三四拍强弱弱规律",
       "category": "乐理",
       "learned_date": "2026-04-19",
-      "last_reviewed": "2026-04-19",
-      "proficiency": 2,
-      "review_interval_days": 2,
-      "last_feedback": "",
-      "notes": "结合《排钟》练习强弱弱旋律"
+      "last_reviewed": "2026-04-25",
+      "proficiency": 3,
+      "review_interval_days": 5,
+      "last_feedback": "拍手能做到",
+      "notes": "结合《排钟》练习强弱弱旋律；第10周家长反馈拍手能做到"
     },
     {
       "id": "skill_026",
       "name": "双臂上举与下垂",
       "category": "基础动作",
       "learned_date": "2026-04-19",
-      "last_reviewed": "2026-04-19",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "last_feedback": "",
-      "notes": "天天练新内容"
+      "last_reviewed": "2026-04-25",
+      "proficiency": 3,
+      "review_interval_days": 5,
+      "last_feedback": "比较顺",
+      "notes": "天天练新内容；第10周家长反馈比较顺"
     },
     {
       "id": "skill_027",
@@ -462,7 +463,7 @@
       "proficiency": 1,
       "review_interval_days": 1,
       "last_feedback": "",
-      "notes": "四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音符的请假条——有音符在的地方不弹就是休止"
+      "notes": "四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音符的请假条——有音符在的地方不弹就是休止。老师另一种辨别方法：小节里没有其他休止符→全休止符，有其他休止符→二分休止符；四分和附点二分靠形状区分"
     },
     {
       "id": "skill_028",
@@ -504,28 +505,28 @@
     {
       "id": "piece_002",
       "name": "玛丽有只小羊羔",
-      "status": "learning",
+      "status": "learned",
       "started_date": "2026-03-15",
       "sections_learned": [
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-02",
-      "proficiency": 3,
-      "last_feedback": "跳跳最喜欢的曲子，4/1收尾和4/2点唱机都选了"
+      "last_practiced": "2026-04-25",
+      "proficiency": 4,
+      "last_feedback": "第10周还记得"
     },
     {
       "id": "piece_003",
       "name": "海军修建兵",
-      "status": "learning",
+      "status": "learned",
       "started_date": "2026-03-21",
       "sections_learned": [
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-02",
-      "proficiency": 3,
-      "last_feedback": "4/1回忆挑战弹出来了，4/2点唱机也抽到弹了"
+      "last_practiced": "2026-04-25",
+      "proficiency": 4,
+      "last_feedback": "第10周还记得"
     },
     {
       "id": "piece_004",
@@ -556,7 +557,7 @@
     {
       "id": "piece_006",
       "name": "越过山坡",
-      "status": "learning",
+      "status": "learned",
       "started_date": "2026-03-29",
       "sections_learned": [
         "全曲"
@@ -564,35 +565,35 @@
       "difficulty_spots": [
         "小节线处停顿还没掌握"
       ],
-      "last_practiced": "2026-04-04",
-      "proficiency": 3,
-      "last_feedback": "基本能弹，小节线停顿还没掌握"
+      "last_practiced": "2026-04-25",
+      "proficiency": 4,
+      "last_feedback": "第10周还记得"
     },
     {
       "id": "piece_007",
       "name": "天天练-右手拍球",
-      "status": "learning",
+      "status": "learned",
       "started_date": "2026-03-21",
       "sections_learned": [
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-12",
-      "proficiency": 3,
-      "last_feedback": "课上复习过弧线跳音"
+      "last_practiced": "2026-04-25",
+      "proficiency": 4,
+      "last_feedback": "第10周还记得"
     },
     {
       "id": "piece_008",
       "name": "天天练-左手拍球",
-      "status": "learning",
+      "status": "learned",
       "started_date": "2026-03-29",
       "sections_learned": [
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-12",
-      "proficiency": 3,
-      "last_feedback": "课上复习过弧线跳音"
+      "last_practiced": "2026-04-25",
+      "proficiency": 4,
+      "last_feedback": "第10周还记得"
     },
     {
       "id": "piece_009",
@@ -609,9 +610,9 @@
         "手型稳定",
         "三四拍强弱弱表现"
       ],
-      "last_practiced": "2026-04-19",
-      "proficiency": 2,
-      "last_feedback": "已学习剩余部分，继续巩固切分节奏和三指弹奏"
+      "last_practiced": "2026-04-25",
+      "proficiency": 4,
+      "last_feedback": "第10周家长反馈：很流畅！"
     },
     {
       "id": "piece_010",
@@ -624,9 +625,9 @@
       "difficulty_spots": [
         "三四拍强弱弱旋律表现"
       ],
-      "last_practiced": "2026-04-19",
-      "proficiency": 1,
-      "last_feedback": "老师提醒要多练"
+      "last_practiced": "2026-04-25",
+      "proficiency": 3,
+      "last_feedback": "第10周家长反馈：基本熟了"
     },
     {
       "id": "piece_011",
@@ -637,9 +638,22 @@
         "已学习"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-19",
-      "proficiency": 1,
-      "last_feedback": "本周新学天天练内容"
+      "last_practiced": "2026-04-25",
+      "proficiency": 3,
+      "last_feedback": "第10周家长反馈：比较顺"
+    },
+    {
+      "id": "piece_015",
+      "name": "翻滚",
+      "status": "learning",
+      "started_date": "2026-04-19",
+      "sections_learned": [
+        "已学习"
+      ],
+      "difficulty_spots": [],
+      "last_practiced": "2026-04-25",
+      "proficiency": 3,
+      "last_feedback": "第10周抽抽乐中弹了，都挺熟的"
     },
     {
       "id": "piece_012",
