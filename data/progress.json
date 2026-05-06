@@ -3,6 +3,14 @@
   "start_date": "2026-02-08",
   "lesson_day": "Sunday",
   "current_stage": "basic_five",
+  "pending_improvements": [
+    {
+      "topic": "音准训练",
+      "description": "跳跳认识音符没问题，但唱音准不行。下次计划不紧张时加入训练：1) 琴声跟唱（弹曲子时跟着哼）；2) 先听再唱（弹单音→跟唱）；3) 高低辨别游戏。不要纠正跑调，不要用App打分。融入日常练琴即可，不需要专门环节。",
+      "added_date": "2026-05-06",
+      "status": "待加入下次周计划"
+    }
+  ],
   "lessons": [
     {
       "week": 1,
@@ -165,6 +173,23 @@
         "和声音程"
       ],
       "notes": "休止符记忆口诀：四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音程分旋律音程（前后弹）和和声音程（同时弹）。老师另一种辨别方法：小节里没有其他休止符→全休止符，有其他休止符→二分休止符；四分和附点二分靠形状区分。手型问题持续：手容易塌，弹低音谱号so时食指中指容易翘起来。"
+    },
+    {
+      "week": 12,
+      "date": "2026-05-05",
+      "teacher_content": "复习低音谱号上的so（记忆方法：地下一楼扫一扫[转圈]），用强弱弱的旋律练习了《滑稽面孔》。认识高音谱号上的Fa（在高音谱第一间）。天天练学习大拇指无声按压和中指练习，学习曲目《右手举锤敲击》。正式学习小汤一新曲目《滑稽面孔》。回家预习《教堂管风琴》。",
+      "homework": "练习《滑稽面孔》，练习天天练《右手举锤敲击》和大拇指无声按压+中指练习，预习《教堂管风琴》",
+      "pieces": [
+        "滑稽面孔",
+        "天天练-右手举锤敲击",
+        "教堂管风琴"
+      ],
+      "techniques": [
+        "高音谱号上的Fa（第一间）",
+        "大拇指无声按压（手指独立性）",
+        "中指练习"
+      ],
+      "notes": "因五一假期调课，5/5上课。滑稽面孔从预习变正式学习。课上用强弱弱旋律弹滑稽面孔，但家长反馈在家练习时暂时不引入强弱关系练习，先把曲子弹熟。高音谱号Fa是新认的音，在第一间。天天练新增大拇指无声按压（训练手指独立性）和中指练习，配合《右手举锤敲击》。《教堂管风琴》是预习作业。"
     }
   ],
   "skill_inventory": [
@@ -426,66 +451,99 @@
       "name": "低音谱号上的so",
       "category": "认谱",
       "learned_date": "2026-04-19",
-      "last_reviewed": "2026-04-25",
-      "proficiency": 3,
-      "review_interval_days": 5,
-      "last_feedback": "基本能自己找到",
-      "notes": "记忆方法：地下一楼扫一扫；第10周家长反馈基本能自己找到"
+      "last_reviewed": "2026-05-05",
+      "proficiency": 4,
+      "review_interval_days": 7,
+      "last_feedback": "课上复习了",
+      "notes": "记忆方法：地下一楼扫一扫[转圈]；第10周家长反馈基本能自己找到；第12课继续复习"
     },
     {
       "id": "skill_025",
       "name": "三四拍强弱弱规律",
       "category": "乐理",
       "learned_date": "2026-04-19",
-      "last_reviewed": "2026-04-25",
+      "last_reviewed": "2026-05-05",
       "proficiency": 3,
       "review_interval_days": 5,
-      "last_feedback": "拍手能做到",
-      "notes": "结合《排钟》练习强弱弱旋律；第10周家长反馈拍手能做到"
+      "last_feedback": "课上用强弱弱弹滑稽面孔",
+      "notes": "结合《排钟》练习强弱弱旋律；第10周家长反馈拍手能做到；第12课用强弱弱旋律弹《滑稽面孔》"
     },
     {
       "id": "skill_026",
       "name": "双臂上举与下垂",
       "category": "基础动作",
       "learned_date": "2026-04-19",
-      "last_reviewed": "2026-04-25",
-      "proficiency": 3,
-      "review_interval_days": 5,
-      "last_feedback": "比较顺",
-      "notes": "天天练新内容；第10周家长反馈比较顺"
+      "last_reviewed": "2026-05-02",
+      "proficiency": 4,
+      "review_interval_days": 7,
+      "last_feedback": "第11周每天收尾都做",
+      "notes": "天天练新内容；第10周家长反馈比较顺；第11周几乎每天做收尾"
     },
     {
       "id": "skill_027",
       "name": "休止符（全休止符、附点二分休止符、二分休止符、四分休止符）",
       "category": "乐理",
       "learned_date": "2026-04-27",
-      "last_reviewed": "2026-04-27",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "last_feedback": "",
-      "notes": "四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音符的请假条——有音符在的地方不弹就是休止。老师另一种辨别方法：小节里没有其他休止符→全休止符，有其他休止符→二分休止符；四分和附点二分靠形状区分"
+      "last_reviewed": "2026-05-01",
+      "proficiency": 3,
+      "review_interval_days": 4,
+      "last_feedback": "第11周多次练习，快问快答和闯关都能答出来",
+      "notes": "四分休止符像横过来的M，全休止符像吸顶灯，二分休止符像巧克力蛋糕。音符的请假条——有音符在的地方不弹就是休止。老师另一种辨别方法：小节里没有其他休止符→全休止符，有其他休止符→二分休止符；四分和附点二分靠形状区分。第11周4天内反复练习（认脸、快问快答、闯关），掌握较好"
     },
     {
       "id": "skill_028",
       "name": "旋律音程（先后弹奏两个音）",
       "category": "乐理",
       "learned_date": "2026-04-27",
-      "last_reviewed": "2026-04-27",
-      "proficiency": 1,
-      "review_interval_days": 1,
-      "last_feedback": "",
-      "notes": "两个音先后弹出来就是旋律音程"
+      "last_reviewed": "2026-05-02",
+      "proficiency": 2,
+      "review_interval_days": 2,
+      "last_feedback": "第11周练了多次，排排走能分辨",
+      "notes": "两个音先后弹出来就是旋律音程。第11周通过'排排走vs手拉手'游戏多次练习"
     },
     {
       "id": "skill_029",
       "name": "和声音程（同时弹奏两个音）",
       "category": "乐理",
       "learned_date": "2026-04-27",
-      "last_reviewed": "2026-04-27",
+      "last_reviewed": "2026-05-02",
+      "proficiency": 2,
+      "review_interval_days": 2,
+      "last_feedback": "第11周练了多次，手拉手能分辨",
+      "notes": "两个音同时弹出来就是和声音程。第11周通过'排排走vs手拉手'游戏多次练习"
+    },
+    {
+      "id": "skill_030",
+      "name": "高音谱号上的Fa（第一间）",
+      "category": "认谱",
+      "learned_date": "2026-05-05",
+      "last_reviewed": "2026-05-05",
       "proficiency": 1,
       "review_interval_days": 1,
       "last_feedback": "",
-      "notes": "两个音同时弹出来就是和声音程"
+      "notes": "Fa在高音谱第一间，第12课新学"
+    },
+    {
+      "id": "skill_031",
+      "name": "大拇指无声按压（手指独立性训练）",
+      "category": "基础动作",
+      "learned_date": "2026-05-05",
+      "last_reviewed": "2026-05-05",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "天天练新内容，训练大拇指独立控制能力，无声按压琴键"
+    },
+    {
+      "id": "skill_032",
+      "name": "中指练习",
+      "category": "基础动作",
+      "learned_date": "2026-05-05",
+      "last_reviewed": "2026-05-05",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "天天练新内容，练习中指（3指）的独立控制"
     }
   ],
   "pieces_log": [
@@ -511,9 +569,9 @@
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-25",
+      "last_practiced": "2026-05-01",
       "proficiency": 4,
-      "last_feedback": "第10周还记得"
+      "last_feedback": "第11周抽抽乐弹了"
     },
     {
       "id": "piece_003",
@@ -537,9 +595,9 @@
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-03-21",
-      "proficiency": 2,
-      "last_feedback": ""
+      "last_practiced": "2026-05-01",
+      "proficiency": 3,
+      "last_feedback": "第11周抽抽乐弹了"
     },
     {
       "id": "piece_005",
@@ -591,14 +649,14 @@
         "全曲"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-25",
+      "last_practiced": "2026-05-01",
       "proficiency": 4,
-      "last_feedback": "第10周还记得"
+      "last_feedback": "第11周抽抽乐弹了"
     },
     {
       "id": "piece_009",
       "name": "雷格泰姆舞",
-      "status": "learning",
+      "status": "learned",
       "started_date": "2026-04-12",
       "sections_learned": [
         "前两行",
@@ -610,9 +668,9 @@
         "手型稳定",
         "三四拍强弱弱表现"
       ],
-      "last_practiced": "2026-04-25",
-      "proficiency": 4,
-      "last_feedback": "第10周家长反馈：很流畅！"
+      "last_practiced": "2026-05-02",
+      "proficiency": 5,
+      "last_feedback": "第11周多次弹奏，很流畅"
     },
     {
       "id": "piece_010",
@@ -625,22 +683,22 @@
       "difficulty_spots": [
         "三四拍强弱弱旋律表现"
       ],
-      "last_practiced": "2026-04-25",
-      "proficiency": 3,
-      "last_feedback": "第10周家长反馈：基本熟了"
+      "last_practiced": "2026-05-02",
+      "proficiency": 4,
+      "last_feedback": "第11周多次弹奏，比较熟了"
     },
     {
       "id": "piece_011",
       "name": "天天练-双臂上举与下垂",
-      "status": "learning",
+      "status": "learned",
       "started_date": "2026-04-19",
       "sections_learned": [
         "已学习"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-25",
-      "proficiency": 3,
-      "last_feedback": "第10周家长反馈：比较顺"
+      "last_practiced": "2026-05-02",
+      "proficiency": 4,
+      "last_feedback": "第11周每天收尾都做"
     },
     {
       "id": "piece_015",
@@ -664,9 +722,9 @@
         "课上初学"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-27",
-      "proficiency": 1,
-      "last_feedback": ""
+      "last_practiced": "2026-05-02",
+      "proficiency": 3,
+      "last_feedback": "第11周每天都弹了"
     },
     {
       "id": "piece_013",
@@ -677,18 +735,44 @@
         "课上初学"
       ],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-27",
-      "proficiency": 1,
-      "last_feedback": ""
+      "last_practiced": "2026-05-02",
+      "proficiency": 3,
+      "last_feedback": "第11周每天都弹了"
     },
     {
       "id": "piece_014",
       "name": "滑稽面孔",
-      "status": "preview",
+      "status": "learning",
       "started_date": "2026-04-27",
+      "sections_learned": [
+        "课上正式学习"
+      ],
+      "difficulty_spots": [],
+      "last_practiced": "2026-05-05",
+      "proficiency": 2,
+      "last_feedback": "第12课正式学习，用强弱弱旋律弹奏"
+    },
+    {
+      "id": "piece_016",
+      "name": "天天练-右手举锤敲击",
+      "status": "learning",
+      "started_date": "2026-05-05",
+      "sections_learned": [
+        "课上初学"
+      ],
+      "difficulty_spots": [],
+      "last_practiced": "2026-05-05",
+      "proficiency": 1,
+      "last_feedback": ""
+    },
+    {
+      "id": "piece_017",
+      "name": "教堂管风琴",
+      "status": "preview",
+      "started_date": "2026-05-05",
       "sections_learned": [],
       "difficulty_spots": [],
-      "last_practiced": "2026-04-27",
+      "last_practiced": "2026-05-05",
       "proficiency": 0,
       "last_feedback": "预习作业，还没开始学"
     }
