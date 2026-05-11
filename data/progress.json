@@ -190,6 +190,26 @@
         "中指练习"
       ],
       "notes": "因五一假期调课，5/5上课。滑稽面孔从预习变正式学习。课上用强弱弱旋律弹滑稽面孔，但家长反馈在家练习时暂时不引入强弱关系练习，先把曲子弹熟。高音谱号Fa是新认的音，在第一间。天天练新增大拇指无声按压（训练手指独立性）和中指练习，配合《右手举锤敲击》。《教堂管风琴》是预习作业。"
+    },
+    {
+      "week": 13,
+      "date": "2026-05-10",
+      "teacher_content": "小汤一继续弹奏《教堂管风琴》和《滑稽面孔》，新增小汤一曲目《扬基歌》。天天练练新增《左手举锤敲击》和《穿雨鞋在水中行走》。老师特别提醒：练《滑稽面孔》时注意区分高音Fa和低音So；练《扬基歌》时Si、So、Fa容易混淆，要多唱谱；练习时要注意每首曲子的重点练习目的。",
+      "homework": "练习《教堂管风琴》《滑稽面孔》《扬基歌》，练习天天练练《左手举锤敲击》《穿雨鞋在水中行走》；重点区分高音Fa和低音So，并多唱《扬基歌》的Si-So-Fa。",
+      "pieces": [
+        "教堂管风琴",
+        "滑稽面孔",
+        "扬基歌",
+        "天天练-左手举锤敲击",
+        "天天练练-穿雨鞋在水中行走"
+      ],
+      "techniques": [
+        "区分高音谱号上的Fa和低音谱号上的So",
+        "Si-So-Fa唱谱辨别",
+        "左手举锤敲击",
+        "穿雨鞋在水中行走"
+      ],
+      "notes": "本周进入第13周。教堂管风琴从预习进入正式弹奏；滑稽面孔继续巩固。新曲《扬基歌》需要先唱谱再弹，重点处理Si、So、Fa的混淆。天天练新增左手内容，继续发展左右手的独立控制。"
     }
   ],
   "skill_inventory": [
@@ -544,6 +564,28 @@
       "review_interval_days": 1,
       "last_feedback": "",
       "notes": "天天练新内容，练习中指（3指）的独立控制"
+    },
+    {
+      "id": "skill_033",
+      "name": "区分高音谱号上的Fa和低音谱号上的So",
+      "category": "认谱",
+      "learned_date": "2026-05-10",
+      "last_reviewed": "2026-05-10",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "在《滑稽面孔》中容易混淆，需要结合谱子位置和键盘位置反复确认"
+    },
+    {
+      "id": "skill_034",
+      "name": "Si-So-Fa唱谱辨别",
+      "category": "视唱",
+      "learned_date": "2026-05-10",
+      "last_reviewed": "2026-05-10",
+      "proficiency": 1,
+      "review_interval_days": 1,
+      "last_feedback": "",
+      "notes": "《扬基歌》里Si、So、Fa容易混淆，先唱清楚再弹更容易弹准"
     }
   ],
   "pieces_log": [
@@ -747,10 +789,12 @@
       "sections_learned": [
         "课上正式学习"
       ],
-      "difficulty_spots": [],
-      "last_practiced": "2026-05-05",
+      "difficulty_spots": [
+        "高音Fa和低音So容易混淆"
+      ],
+      "last_practiced": "2026-05-10",
       "proficiency": 2,
-      "last_feedback": "第12课正式学习，用强弱弱旋律弹奏"
+      "last_feedback": "继续巩固，重点区分高音Fa和低音So"
     },
     {
       "id": "piece_016",
@@ -768,13 +812,56 @@
     {
       "id": "piece_017",
       "name": "教堂管风琴",
-      "status": "preview",
+      "status": "learning",
       "started_date": "2026-05-05",
-      "sections_learned": [],
+      "sections_learned": [
+        "课上开始弹奏"
+      ],
       "difficulty_spots": [],
-      "last_practiced": "2026-05-05",
-      "proficiency": 0,
-      "last_feedback": "预习作业，还没开始学"
+      "last_practiced": "2026-05-10",
+      "proficiency": 1,
+      "last_feedback": "从预习进入正式弹奏"
+    },
+    {
+      "id": "piece_018",
+      "name": "扬基歌",
+      "status": "learning",
+      "started_date": "2026-05-10",
+      "sections_learned": [
+        "课上初学"
+      ],
+      "difficulty_spots": [
+        "Si、So、Fa容易混淆"
+      ],
+      "last_practiced": "2026-05-10",
+      "proficiency": 1,
+      "last_feedback": "需要多唱谱"
+    },
+    {
+      "id": "piece_019",
+      "name": "天天练-左手举锤敲击",
+      "status": "learning",
+      "started_date": "2026-05-10",
+      "sections_learned": [
+        "课上初学"
+      ],
+      "difficulty_spots": [],
+      "last_practiced": "2026-05-10",
+      "proficiency": 1,
+      "last_feedback": ""
+    },
+    {
+      "id": "piece_020",
+      "name": "天天练练-穿雨鞋在水中行走",
+      "status": "learning",
+      "started_date": "2026-05-10",
+      "sections_learned": [
+        "课上初学"
+      ],
+      "difficulty_spots": [],
+      "last_practiced": "2026-05-10",
+      "proficiency": 1,
+      "last_feedback": ""
     }
   ]
 }
